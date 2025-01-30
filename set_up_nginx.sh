@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Update and install nginx
+# Update and install  nginx and git on Ubuntu
 apt-get update
 apt-get install -y nginx git
 
